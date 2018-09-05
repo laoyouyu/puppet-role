@@ -1,3 +1,3 @@
 class role::linux {
-  include ::profile::ntp
+  include ::profile::base
 }
